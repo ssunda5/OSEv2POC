@@ -5,7 +5,7 @@
 	<artifactId>jbosseap</artifactId>
 	<packaging>war</packaging>
 	<version>1.0</version>
-	<name>jbosseap</name>
+	<name>jbosseap</name> 
 	
 	
 	<properties>
