@@ -18,6 +18,7 @@ public class TestClass {
 
     @Test
     public void thisAlwaysPasses() {   
+        System.out.println("test");  
     }     
 
     @Test
