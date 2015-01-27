@@ -17,7 +17,7 @@ import org.junit.runners.JUnit4;
 public class TestClass {
 
     @Test
-    public void thisAlwaysPasses() {
+    public void thisAlwaysPasses() {   
     }
 
     @Test
