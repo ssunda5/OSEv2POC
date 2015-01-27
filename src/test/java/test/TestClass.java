@@ -18,7 +18,7 @@ public class TestClass {
 
     @Test
     public void thisAlwaysPasses() {   
-    }
+    }     
 
     @Test
     @Ignore
