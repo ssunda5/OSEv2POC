@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.TestClass" time="0.003" tests="2" errors="0" skipped="1" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="ibm.signalhandling.rs" value="false"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\IBM\SDP_1_1\jdk\jre\bin\compressedrefs;C:\Program Files\IBM\SDP_1_1\jdk\jre\bin"/>
+    <property name="java.vm.version" value="2.6"/>
+    <property name="com.ibm.oti.configuration" value="scar"/>
+    <property name="java.vm.vendor" value="IBM Corporation"/>
+    <property name="java.vendor.url" value="http://www.ibm.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="IBM J9 VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\OSE\myUHC2.0\ose-poc"/>
+    <property name="java.runtime.version" value="pwa6470sr4fp1-20130325_01 (SR4 FP1)"/>
+    <property name="java.fullversion" value="JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130306_140761 (JIT enabled, AOT enabled)&#10;J9VM - R26_Java726_SR4_FP1_20130306_1011_B140761&#10;JIT  - r11.b03_20130131_32403ifx1&#10;GC   - R26_Java726_SR4_FP1_20130306_1011_B140761_CMPRSS&#10;J9CL - 20130306_140761"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\IBM\SDP_1_1\jdk\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="com.ibm.vm.bitmode" value="64"/>
+    <property name="java.io.tmpdir" value="C:\Users\hgangava\AppData\Local\Temp\"/>
+    <property name="com.ibm.system.agent.path" value="C:\Program Files\IBM\SDP_1_1\jdk\jre\bin"/>
+    <property name="com.ibm.util.extralibs.properties" value=""/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="classworlds.conf" value="C:\OSE\myUHC2.0\.metadata\.plugins\org.maven.ide.eclipse\launches\m2conf1006419896711460428.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\IBM\SDP_1_1\jdk\jre\bin\compressedrefs;C:\Program Files\IBM\SDP_1_1\jdk\jre\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\AdminStudio\2013\Common\;C:\Program Files (x86)\INFORP~1\SHARED~1;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;c:\Program Files (x86)\Intel\iCLS Client\;c:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\windows\des_tools;C:\Program Files\Java\jre6\bin;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Java\jdk1.7.0_67\bin;C:\PROGRA~2\IBM\SQLLIB\BIN;C:\PROGRA~2\IBM\SQLLIB\FUNCTION;C:\PROGRA~2\IBM\SQLLIB\SAMPLES\REPL;C:\apps\apache-maven-2.2.1\bin;C:\Program Files\Java\jdk1.7.0_67\bin;C:\Program Files (x86)\Attachmate\RSecure\;C:\DbVisualizer-7.1.1;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\Git\cmd\;C:\Program Files\TortoiseGit\bin;."/>
+    <property name="jxe.current.romimage.version" value="17"/>
+    <property name="com.ibm.oti.vm.bootstrap.library.path" value="C:\Program Files\IBM\SDP_1_1\jdk\jre\bin\compressedrefs;C:\Program Files\IBM\SDP_1_1\jdk\jre\bin"/>
+    <property name="com.ibm.cpu.endian" value="little"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="51.0"/>
+    <property name="ibm.system.encoding" value="Cp1252"/>
+    <property name="os.version" value="6.1"/>
+    <property name="com.ibm.oti.vm.library.version" value="26"/>
+    <property name="com.ibm.jcl.checkClassPath" value=""/>
+    <property name="user.home" value="C:\Users\hgangava"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.7"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="/C:/Program Files/IBM/SDP_1_1/plugins/org.maven.ide.eclipse.maven_embedder_0.10.2.20100623-1649/jars/plexus-classworlds-2.2.2.jar"/>
+    <property name="user.name" value="hgangava"/>
+    <property name="com.ibm.oti.shared.enabled" value="false"/>
+    <property name="java.vm.specification.version" value="1.0"/>
+    <property name="java.home" value="C:\Program Files\IBM\SDP_1_1\jdk\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B -s C:\apps\upm3\apache-maven-3.0.4\conf\settings.xml install"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="ibm.signalhandling.sigint" value="true"/>
+    <property name="user.language" value="en"/>
+    <property name="com.ibm.oti.jcl.build" value="20130306_140761"/>
+    <property name="os.encoding" value="UTF8"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="JRE 1.7.0 Windows 7 amd64-64 Compressed References 20130306_140761 (JIT enabled, AOT enabled)&#10;J9VM - R26_Java726_SR4_FP1_20130306_1011_B140761&#10;JIT  - r11.b03_20130131_32403ifx1&#10;GC   - R26_Java726_SR4_FP1_20130306_1011_B140761_CMPRSS&#10;J9CL - 20130306_140761"/>
+    <property name="java.version" value="1.7.0"/>
+    <property name="java.ext.dirs" value="C:\Program Files\IBM\SDP_1_1\jdk\jre\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\IBM\SDP_1_1\jdk\jre\lib\endorsed\jaxws-api.jar;C:\Program Files\IBM\SDP_1_1\jdk\jre\lib\endorsed\jaxb-api.jar;C:\Program Files\IBM\SDP_1_1\jdk\jre\lib\endorsed\javax.j2ee.annotation.jar;C:\Program Files\IBM\SDP_1_1\jdk\jre\bin\compressedrefs\jclSC170\vm.jar;C:\Program Files\IBM\SDP_1_1\jdk\jre\lib\se-service.jar;C:\Program Files\IBM\SDP_1_1\jdk\jre\lib\math.jar;C:\Program Files\IBM\SDP_1_1\jdk\jre\lib\jlm.jar;C:\Program Files\IBM\SDP_1_1\jdk\jre\lib\ibmorb.jar;C:\Program Files\IBM\SDP_1_1\jdk\jre\lib\ibmorbapi.jar;C:\Program Files\IBM\SDP_1_1\jdk\jre\lib\ibmcfw.jar;C:\Program Files\IBM\SDP_1_1\jdk\jre\lib\ibmpkcs.jar;C:\Program Files\IBM\SDP_1_1\jdk\jre\lib\ibmcertpathfw.jar;C:\Program Files\IBM\SDP_1_1\jdk\jre\lib\ibmjgssfw.jar;C:\Program Files\IBM\SDP_1_1\jdk\jre\lib\ibmjssefw.jar;C:\Program Files\IBM\SDP_1_1\jdk\jre\lib\ibmsaslfw.jar;C:\Program Files\IBM\SDP_1_1\jdk\jre\lib\ibmjcefw.jar;C:\Program Files\IBM\SDP_1_1\jdk\jre\lib\ibmjgssprovider.jar;C:\Program Files\IBM\SDP_1_1\jdk\jre\lib\ibmjsseprovider2.jar;C:\Program Files\IBM\SDP_1_1\jdk\jre\lib\ibmcertpathprovider.jar;C:\Program Files\IBM\SDP_1_1\jdk\jre\lib\xmldsigfw.jar;C:\Program Files\IBM\SDP_1_1\jdk\jre\lib\xml.jar;C:\Program Files\IBM\SDP_1_1\jdk\jre\lib\charsets.jar;C:\Program Files\IBM\SDP_1_1\jdk\jre\lib\resources.jar;C:\Program Files\IBM\SDP_1_1\jdk\jre\lib\rt.jar"/>
+    <property name="jxe.lowest.romimage.version" value="17"/>
+    <property name="java.vendor" value="IBM Corporation"/>
+    <property name="maven.home" value="C:\OSE\myUHC2.0\ose-poc\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.compiler" value="j9jit26"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="com.ibm.zero.version" value="2"/>
+    <property name="ibm.signalhandling.sigchain" value="true"/>
+    <property name="sun.desktop" value="windows"/>
+  </properties>
+  <testcase name="thisAlwaysPasses" classname="test.TestClass" time="0.003"/>
+  <testcase name="thisIsIgnored" classname="test.TestClass" time="0">
+    <skipped/>
+  </testcase>
+</testsuite>
