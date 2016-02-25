@@ -29,4 +29,14 @@ public class FirstRESTService {
     public String getHtml() {
         return "<html lang=\"en\"><body><h1>Hello, from a REST Service in the OSE World!!!!</h1></body></html>";
     } 
+
+
+ @GET
+    @Produces("text/html")
+@Path("/test")
+    public String getHtmlTest() {
+        return "<html lang=\"en\"><body><h1>Hello, from a REST Service in the OSE MYUHC World!!!!</h1></body></html>";
+    } 
+
+
 }
